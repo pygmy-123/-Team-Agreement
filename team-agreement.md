@@ -11,7 +11,7 @@
 
 ## Cooperation Plan
 
-* What are the key strengths of each person on the team?
+### What are the key strengths of each person on the team?
 
 - Jana Abdelkader: problem solving, data analysis, teamwork
 - Mohammad khalil: Problem solving, attention to details, data analysis, has a BG in IT fields. 
@@ -20,22 +20,22 @@
 - Qamar Alkhatib: teamwork, time manegment, machine learning
 - Oqla Alrefai: data structures, machine learning
 
-* How can you best utilize these strengths in the execution of your project?
+### How can you best utilize these strengths in the execution of your project?
 
 We will devide the work depending on each one's skills. 
 
-* In which professional competencies do you each want to develop greater strength?
+### In which professional competencies do you each want to develop greater strength?
 
-- Jana Abdelkader: Machine learning
-- Mohamad khalil: Time manegment
-- Abdallah Alabed: Pandas package
-- Abrar Alzubaidi: Machine learning and communication skills
-- Qamar Alkhatib: OOP and Machine learning
-- Oqla Alrefai: Time manegment, numpy
+- Jana Abdelkader: Design
+- Mohamad khalil: Design
+- Abdallah Alabed: BackEnd and FrontEnd Connections
+- Abrar Alzubaidi: Backend
+- Qamar Alkhatib: Front End
+- Oqla Alrefai: BackEnd
 
-* Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
+### Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
 
-we will have 2 meeting everyday. one in the morning to assign the tasks and one at the end of the day to explain what we have done during the day. 
+we will have a meeting everyday, to showcase what tasks have we finished and plan tasks for the next day. 
 
 ## Conflict Plan
 
